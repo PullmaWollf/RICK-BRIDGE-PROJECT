@@ -1,0 +1,1 @@
+{"mcpServers":{"rick-bridge":{"type":"stdio","command":"python","args":["${PLUGIN_ROOT}/local/bridge.py","serve"],"cwd":"${PLUGIN_ROOT}"}}}

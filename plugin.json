@@ -1,0 +1,1 @@
+{"name":"rick-bridge","version":"2.0.0","description":"Read explicitly shared temporary local files.","mcpServers":"./mcp.json","extensions":{"com.openai":{"requires_local_executor":true}}}
